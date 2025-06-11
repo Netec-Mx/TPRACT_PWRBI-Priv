@@ -21,7 +21,7 @@ Bienvenido a la **Plataforma de Laboratorios** del **Taller Práctico Power BI**
 
 Este laboratorio está diseñado para ofrecerte una experiencia práctica. Haz clic en el enlace para comenzar.
 
-01. ### [Ejecicio final](./EjercicioFinal.md)
+01. ### [Ejecicio final.](./EjercicioFinal.md)
     - ⏱️ **Duración estimada**: Hasta 6 horas.
 
 ---
