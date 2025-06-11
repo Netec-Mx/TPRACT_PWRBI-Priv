@@ -1,18 +1,19 @@
-# Ejercicio Final de Curso Power BI
+# Ejercicio Final
 
+## Objetivo de la práctica:
+
+Al finalizar la práctica, serás capaz de:
+
+- Aplicar los conocimientos adquiridos durante el curso mediante la creación de un mini proyecto que emule un reporte, el cual, actualmente ya es utilizado.
+
+## Duración aproximada:
+
+El tiempo requerido para completar este ejercicio dependerá de la experiencia y familiaridad del usuario con Power BI. Sin embargo, se estima que, para quienes lo utilizan por primera vez, la realización exitosa del ejercicio puede tomar aproximadamente **6 horas**.
 
 ## Planteamiento del ejercicio.
 
->Como parte de sus actividades le piden elaborar el borrador de un reporte de seguimiento de solicitudes de crédito con Power BI Desktop para analizar el desempeño de las solicitudes comparando los resultados mes a mes.  
+> Como parte de sus actividades le piden elaborar el borrador de un reporte de seguimiento de solicitudes de crédito con Power BI Desktop para analizar el desempeño de las solicitudes comparando los resultados mes a mes.  
 En dicho análisis le piden hacer un primer borrador de este reporte analizando algunos datos sencillos, como las solicitudes aprobadas, las regiones donde y sucursales donde vienen estas solicitudes entre otros detalles, pero que no son los datos 100% pues es una prueba de concepto.
-
-### Objetivo
-
->El objetivo es poner en práctica lo aprendido en el curso aplicándolo en un mini proyecto que emule un reporte que actualmente ya se utiliza.
-
-### Tiempo estimado
-
->Dependiendo la experiencia y la familiaridad que se tenga con el uso de Power BI, el ejercicio podrá tomar mas o menos tiempo. Pero se estima que para realizar este ejercicio de forma exitosa involucra alrededor de unas 6 horas de ser la primera vez que se use Power BI.
 
 ### Metodología
 
