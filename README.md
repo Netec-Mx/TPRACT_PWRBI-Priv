@@ -1,23 +1,10 @@
-<div>
-<table>
-  <tbody>
-      <tr>
-    <td> 
-        <img src="./images/neteclogo.png" width="250px">
-    <td>
-    <td>
-      <h1>Taller Práctico Power BI<h1>
-    </td>
-  </tr>
-  </tbody>
-<table>
-</div>
+# Taller Práctico Power BI
 
 **Plataforma de Laboratorios**
 
 Bienvenido a la **Plataforma de Laboratorios** del **Taller Práctico Power BI**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
-# Lista de Laboratorios:
+## Lista de Laboratorios:
 
 Este laboratorio está diseñado para ofrecerte una experiencia práctica. Haz clic en el enlace para comenzar.
 
