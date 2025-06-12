@@ -12,12 +12,13 @@ El tiempo requerido para completar este ejercicio dependerá de la experiencia y
 
 ## 📄 Planteamiento del ejercicio
 
-Como parte de tus actividades, debes elaborar el borrador de un reporte de seguimiento de solicitudes de crédito en Power BI Desktop. El objetivo es analizar el desempeño de las solicitudes, comparando los resultados mes a mes.  
+Como parte de tus actividades, debes elaborar el borrador de un reporte de seguimiento de solicitudes de crédito en Power BI Desktop. El objetivo es analizar el desempeño de las solicitudes, comparando los resultados mes a mes.
+
 En este primer borrador, deberás incluir un análisis de datos básicos, como el número de solicitudes aprobadas, las regiones y sucursales de origen, entre otros detalles. Ten en cuenta que estos datos no son definitivos, ya que el reporte es una prueba de concepto.
 
 ## ⚙️ Metodología:
 
-Esta actividad está diseñada para realizarse de manera estructurada, como se trabajó durante el curso. Sin embargo, las instrucciones no serán tan detalladas, con el objetivo de reforzar la aplicación de los conocimientos adquiridos sin depender de una guía paso a paso.
+Esta actividad está diseñada para realizarse de manera estructurada, como se trabajó durante el curso. Sin embargo, las instrucciones no serán tan detalladas, esto con el objetivo de reforzar la aplicación de los conocimientos adquiridos sin depender de una guía paso a paso.
 
 ## 📊 Criterios de evaluación:
 
@@ -143,7 +144,7 @@ Debes nombrar la tabla resultante como ***Sucursales*** y deberá quedar de la s
 
 ![Resultado Consulta Sucursales](./images/img-7.png)
 
-Ahora, el equipo te proporcionará los un Excel con la información sobre qué agencias pertenecen a cada estado. Por lo tanto, deberás obtener la información con Power Query y combinar esta nueva consulta con la ya existente. A esta nueva consulta la debes llamar ***Agencias***.
+Ahora, el equipo te proporcionará un Excel con la información sobre qué agencias pertenecen a cada estado. Por lo tanto, deberás obtener la información con Power Query y combinar esta nueva consulta con la ya existente. A esta nueva consulta la debes llamar ***Agencias***.
 
 El resultado final deberá verse de la siguiente manera:
 
