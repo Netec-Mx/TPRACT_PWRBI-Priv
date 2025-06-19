@@ -154,7 +154,7 @@ Al momento de ingerir los datos en Power BI, solamente deben aparecer dos consul
 
 ![Resultado Ingesta Datos](./images/img-9.png)
 
-## Modelado de los datos
+## Modelado de los datos y generación de elementos adicionales.
 
 Ahora crearemos una tabla de fechas para realizar ajustes en el modelo y aprovechar algunas funciones de Time Intelligence. Para ello, dentro de Power BI:
 
@@ -216,7 +216,7 @@ Hasta este punto, deberías contar con algo similar a la siguiente imagen:
 
 ![Resultados de modelado de datos](./images/img-14.png)
 
-## Elaboración del reporte
+## Elaboración y Navegación del reporte
 
 Ahora que ya contamos con algunos datos, comenzarás a diseñar parte del reporte.
 
